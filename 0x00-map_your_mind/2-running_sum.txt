@@ -1,0 +1,7 @@
+Initialize sum=0
+use while loop,while condition is true
+input number
+test number is it's less than 0(negative)
+if true,stop program and print previous sum
+else add number to previous sum(initial sum)
+loop continues till negative number is entered

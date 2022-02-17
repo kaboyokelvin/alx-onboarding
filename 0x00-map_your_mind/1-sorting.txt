@@ -1,0 +1,5 @@
+Intialize the list of numbers to an empty array numbers=[]
+create a For loop to receive an input of three numbers to be sorted and add the numbers to the list of numbers
+use the inbuilt sort function to the list of numbers.
+Then print the sorted list
+
