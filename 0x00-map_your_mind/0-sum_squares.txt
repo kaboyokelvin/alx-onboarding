@@ -1,0 +1,15 @@
+1. Create an empty array of numbers whose squares are to be summed, numbers  = []
+
+2. Ask for the number(n) of elements whose squares are to be summed
+
+3. Create a for loop to enter numbers from 0 to n
+
+4. Initialize a variable sum to zero
+
+5. Initialize a variable squared to an empty array.
+
+6. Loop through the numbers array and square each value as you append it to the squared array.
+
+7. Loop through the squared array and add each number to the sum varible.
+
+8. Return the sum.
